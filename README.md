@@ -4,7 +4,7 @@
 
 **iPhone / iOS photos gallery places map style.**
 
-Previously wrote in Vanila JS for [Dronkers Project Research](https://kecunduk-dronkersproject.netlify.app/places.html).
+Orininally wrote in Vanila JS for [Dronkers Project Research Presentation](https://kecunduk-dronkersproject.netlify.app/places.html).
 
 #### Libraries
 1. GoogleMaps API
